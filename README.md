@@ -39,8 +39,12 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
+![Enter the length of password.](./Assets/length.jpg.jpg)
+![Confirm to select Character type.](./Assets/confirm.jpg)
+![Result of generated password.](./Assets/result.jpg)
+
 
 
 * The URL of the deployed application.
-
+https://sakshiarora04.github.io/Password-Generate/
 
