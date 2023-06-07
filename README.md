@@ -1,6 +1,6 @@
 # 03 JavaScript: Password Generator
 
-## Your Task
+## Description
 
  An application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
@@ -39,12 +39,20 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
-![Enter the length of password.](./Assets/length.jpg.jpg)
+* Enter the length of password
+
+![Enter the length of password.](./Assets/length.jpg)
+
+* Confirm to select Character type
+
 ![Confirm to select Character type.](./Assets/confirm.jpg)
+
+*Result of generated password
+
 ![Result of generated password.](./Assets/result.jpg)
 
 
 
-* The URL of the deployed application.
+ ## The URL of the deployed application.
 https://sakshiarora04.github.io/Password-Generate/
 
